@@ -43,7 +43,8 @@ sysinfo.txt
 #Unity3D Generated File On Crash Reports
 
 # Tama Local
-Builds/
+[Bb]uilds/
+[Ee]xport/
 *.mp4
 *.mov
 config.txt
